@@ -1,7 +1,7 @@
-# Retail Sales Analytics, Customer Segmentation, and Churn Modeling in Databricks
+# Retail Sales Analytics, Customer Segmentation, and Sales Modeling in Databricks
 
 ## Overview
-This project is an end-to-end retail analytics workflow built in Databricks using sales, product, customer, and store data. The goal was to simulate a real-world analytics project by building a medallion-style data pipeline, performing exploratory data analysis, engineering features, and developing machine learning models for customer segmentation, churn prediction, and sales forecasting.
+This project is an end-to-end retail analytics workflow built in Databricks using sales, product, customer, and store data. The goal was to simulate a real-world analytics project by building a medallion-style data pipeline, performing exploratory data analysis, engineering features, and developing machine learning models for customer segmentation and sales forecasting.
 
 ## Business Problem
 Retail organizations need to understand customer behavior, product performance, and store-level trends in order to improve retention, increase revenue, and support better decision-making. This project uses transactional retail data to generate business insights and predictive models that can support those goals.
